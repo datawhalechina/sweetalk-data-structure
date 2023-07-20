@@ -84,7 +84,7 @@ https://datawhalechina.github.io/sweetalk-data-structure
 
 **核心贡献者**
 
-* 李柯辰
+* [李柯辰](https://github.com/Joe-2002)（项目负责人）
 * 崔腾松
 * 王鑫
 * 马燕鹏
@@ -93,7 +93,9 @@ https://datawhalechina.github.io/sweetalk-data-structure
 
 **其他**
 
-感谢[胡锐锋](https://github.com/Relph1119)等在最早期的时候对[sweetalk-data-structure](https://github.com/datawhalechina/sweetalk-data-structure)所做的贡献!
+1. 特别感谢 [胡锐锋](https://github.com/Relph1119)、[Sm1les](https://github.com/Sm1les) 等对[sweetalk-data-structure](https://github.com/datawhalechina/sweetalk-data-structure)的帮助与支持!
+2. 如果有任何想法可以联系我们 DataWhale 也欢迎大家多多提出 issue；
+3. 
 
 
 ### 关注我们
